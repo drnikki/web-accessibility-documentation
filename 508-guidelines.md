@@ -1,14 +1,17 @@
 ##508 Compliance
 **What is 508 Compliance?**
+
 Compliance standards are set by Section 508 of the Rehabilitation act of 1973 that requires federal agencies and government institutions to provide software and web accessibility to people with disabilities.
 
 **Who Needs to be 508 Compliant?**
+
 1.Government agencies
 2.Federally funded nonprofits
 3.Public higher education institutions
 4.Public k-12 schools
 
 **What are Some Basic Standards for Web Accessibility?**
+
 1. Is there a text equivalent (e.g., via “alt”, “longdesc”, or in element content) for every non-text element?
 2. For any multimedia presentations, are there equivalent alternatives and are they synchronized with the presentation?
 3. Is all information conveyed with color also available without color (e.g. from context or markup)?
@@ -28,6 +31,7 @@ Compliance standards are set by Section 508 of the Rehabilitation act of 1973 th
 16. If a timed response is required, is the user alerted and given sufficient time to indicate more time is required?
 
 **Simple (Free!) Fixes to Make a Webpage More Compliant (Without Code)**
+
 1. Use clear captions on all images, videos, visual, and audio presentations.
 2. Always include clear and understandable headings that provide logical flow.
 3. Include text versions of multimedia. This also makes them easily searchable.
